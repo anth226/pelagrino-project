@@ -3,8 +3,23 @@
 # Job Description
 We are seeking a skilled Full Stack Web Developer to join our team and contribute to the development of our e-commerce platform. The successful candidate will be responsible for implementing new features and resolving bugs in both the backend/admin and frontend of our website. The primary technologies used in our tech stack include MedusaJS for the backend/admin functionality and Nuxt3 for the storefront.
 
-### Tech Stack
-MedusaJS (Backend/Admin) and Nuxt3 (Store Front)
+
+# Requirements
+- Strong proficiency in JavaScript/TypeScript and web development technologies.
+- Experience with MedusaJS for backend and admin functionality.
+- Proficiency in Nuxt3 for developing storefronts.
+- Familiarity with plugin development and integration.
+- Knowledge of media handling and manipulation for images, videos, and 360-degree views.
+- Solid understanding of database design and management.
+- Experience with frontend development, including responsive design and user interface implementation.
+- Ability to work collaboratively in a team environment and meet project deadlines.
+- Strong problem-solving and debugging skills.
+- Excellent communication and documentation skills.
+
+
+# Tech Stack
+- MedusaJS (Backend/Admin): React and Typescript
+- Nuxt3 (Store Front): Vue and Typescript
 
 # Responsibilities
 - Identify and resolve bugs in the current implementation, particularly the built-in import product functionality in the backend/admin section.
@@ -22,18 +37,6 @@ MedusaJS (Backend/Admin) and Nuxt3 (Store Front)
 - Create an account details management page, allowing users to update their information.
 - Build an order history page and functionality to enable users to track their previous purchases.
 - Implement a content management system (CMS) to facilitate easy editing of static page content.
-
-# Requirements
-- Strong proficiency in JavaScript/TypeScript and web development technologies.
-- Experience with MedusaJS for backend and admin functionality.
-- Proficiency in Nuxt3 for developing storefronts.
-- Familiarity with plugin development and integration.
-- Knowledge of media handling and manipulation for images, videos, and 360-degree views.
-- Solid understanding of database design and management.
-- Experience with frontend development, including responsive design and user interface implementation.
-- Ability to work collaboratively in a team environment and meet project deadlines.
-- Strong problem-solving and debugging skills.
-- Excellent communication and documentation skills.
 
 # Deliverables
 
