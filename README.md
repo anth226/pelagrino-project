@@ -20,6 +20,10 @@ We are seeking a skilled Full Stack Web Developer to join our team and contribut
 # Tech Stack
 - MedusaJS (Backend/Admin): React and Typescript
 - Nuxt3 (Store Front): Vue and Typescript
+- MinIO (File Storage)
+- Postgres (Database)
+- Meilisearch (Search Indexing)
+- Redis (Cache)
 
 # Responsibilities
 - Identify and resolve bugs in the current implementation, particularly the built-in import product functionality in the backend/admin section.
@@ -57,7 +61,7 @@ Add support for uploading a group of images/frames to the product media section
 
 
 **Individual Variant Media (Plugin)**<br>
-Allow product media to be assigned to different variants independenly (many-to-many relationship)
+Enable independent media assignment to different variants, establishing a many-to-many relationship. This allows users to distinguish between variants and display appropriate images for each variant. For instance, when dealing with a t-shirt available in red and blue variants, users can upload pictures of both colors to the product media section and designate which picture corresponds to each variant.
 
 
 
@@ -119,6 +123,25 @@ Custom-built product components will be created separatedly, **settings** and **
 	- Setting 2 - Stone 3
 	- Setting 3 - Stone 4
 	- Setting 3 - Stone 5
+
+### Admin
+Setting
+![Setting Admin](https://github.com/FmTod/pelagrino-project/assets/39545521/1fec1638-e11d-409b-ac38-686215afa9b2)
+Product
+![Stone Admin](https://github.com/FmTod/pelagrino-project/assets/39545521/19902b7b-4690-4eb9-b512-1ab78a6b1a6a)
+
+### Storefront
+Browse
+![Storefront Browse](https://github.com/FmTod/pelagrino-project/assets/39545521/4239fd3f-b09f-4f56-88ff-ed0a9b37035e)
+Setting
+![Storefront Setting](https://github.com/FmTod/pelagrino-project/assets/39545521/4add82fb-5fe2-4037-bf07-49a9b9a6490d)
+Stone
+![Storefront Stone](https://github.com/FmTod/pelagrino-project/assets/39545521/8ce69e8a-adc4-4a16-b72e-a22add1a162a)
+Completed
+![Storefront Completed](https://github.com/FmTod/pelagrino-project/assets/39545521/6e7d0cda-17ab-4bb4-a16b-6c77860ffd5e)
+
+Note: this are just example images to help portrait our needs, the design shown in them should not be the goal.
+
 
 </details>
 
